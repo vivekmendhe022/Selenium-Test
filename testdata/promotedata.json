@@ -1,0 +1,13 @@
+{
+	"id": 1,
+	"campaign_name": "Hp Laptop",
+	"type": "conference",
+	"status": "planing",
+	"start_date": "2023-04-28 06:40:13",
+	"end_date": "2023-04-28 06:40:13",
+	"expected_revenue": "500000",
+	"budgeted_cost": "500000",
+	"actual_cost": "500000",
+	"expected_response": "500000",
+	"description": "yes"
+}
